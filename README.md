@@ -7,3 +7,5 @@ Stock price prediction is a challenging task that involves analyzing various fac
 Some popular machine learning algorithms used for stock price prediction include linear regression, decision trees, random forests, and neural networks. These algorithms can be trained on historical stock price data to learn the patterns and relationships between the input features and the target variable, which is the stock price.
 
 However, it's important to note that stock price prediction is not an exact science and there are many external factors that can influence the stock price, such as economic conditions, political events, and natural disasters. Therefore, it's essential to always use caution when making investment decisions and to consult with a financial advisor.
+
+[Nestle_Stock_Price_Prediction.pdf](https://github.com/iamshahidmehmood/Nestle-Stock-Price-Prediction/files/11468965/Nestle_Stock_Price_Prediction.pdf)
